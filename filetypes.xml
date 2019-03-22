@@ -11,6 +11,7 @@
       <mapping ext="vsl" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="spv" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
