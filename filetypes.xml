@@ -6,6 +6,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE-APACHE" type="PLAIN_TEXT" />
+      <mapping pattern=".ci/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
