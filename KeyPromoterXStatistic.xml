@@ -14,7 +14,7 @@
           <IdeaActionID>CommentByLineComment</IdeaActionID>
           <ShortCut>'⌘/' or '⌘NumPad /'</ShortCut>
           <Description>Comment with Line Comment</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
