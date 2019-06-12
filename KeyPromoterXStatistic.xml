@@ -89,6 +89,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle Power Mode II">
+        <Item>
+          <IdeaActionID>togglePowerModeII</IdeaActionID>
+          <ShortCut>'⌥⇧⌘O'</ShortCut>
+          <Description>Toggle Power Mode II</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
