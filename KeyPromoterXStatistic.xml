@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>184</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -94,7 +94,7 @@
           <IdeaActionID>togglePowerModeII</IdeaActionID>
           <ShortCut>'⌥⇧⌘O'</ShortCut>
           <Description>Toggle Power Mode II</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
