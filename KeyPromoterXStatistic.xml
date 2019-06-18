@@ -14,7 +14,7 @@
           <IdeaActionID>CommentByBlockComment</IdeaActionID>
           <ShortCut>'⌥⌘/' or '⌥⌘NumPad /' or '⌃⇧/' or '⌃⇧NumPad /' or '⇧⌘/' or '⇧⌘NumPad /' or '⇧⌘NumPad /'</ShortCut>
           <Description>Comment with Block Comment</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Line Comment">
@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>335</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
