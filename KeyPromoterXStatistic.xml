@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>375</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute GraphQL">
