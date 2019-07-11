@@ -5,23 +5,25 @@
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping ext="prisma" type="GraphQL" />
       <mapping pattern=".bazelignore" type="PLAIN_TEXT" />
-      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
-      <mapping pattern="localignore" type="PLAIN_TEXT" />
-      <mapping pattern="aggregate-state" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".mainframer/config" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE-APACHE" type="PLAIN_TEXT" />
-      <mapping pattern=".ci/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".nvm" type="PLAIN_TEXT" />
-      <mapping pattern="vidispine_transcode_test/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="services/service1/BUILD" type="PLAIN_TEXT" />
-      <mapping pattern="mock/resolvers,ts" type="PLAIN_TEXT" />
+      <mapping pattern=".nvm" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="localignore" type="PLAIN_TEXT" />
+      <mapping pattern="mock/resolvers,ts" type="PLAIN_TEXT" />
+      <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping pattern="aggregate-state" type="PLAIN_TEXT" />
+      <mapping pattern="vidispine_transcode_test/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE-APACHE" type="PLAIN_TEXT" />
+      <mapping pattern=".mainframer/config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".ci/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="vsl" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
