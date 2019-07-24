@@ -24,6 +24,7 @@
       <mapping pattern=".mainframer/config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".ci/Dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="bazelrc" type="PLAIN_TEXT" />
       <mapping ext="diesel" type="PLAIN_TEXT" />
       <mapping ext="vsl" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
