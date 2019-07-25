@@ -1,37 +1,48 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-saga" type="Dockerfile" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile-saga" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="prisma" type="GraphQL" />
-      <mapping pattern=".bazelignore" type="PLAIN_TEXT" />
-      <mapping pattern="services/service1/BUILD" type="PLAIN_TEXT" />
-      <mapping pattern=".nvm" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern="browserslist" type="PLAIN_TEXT" />
-      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern="localignore" type="PLAIN_TEXT" />
-      <mapping pattern="mock/resolvers,ts" type="PLAIN_TEXT" />
-      <mapping pattern="aggregate-state" type="PLAIN_TEXT" />
-      <mapping pattern="vidispine_transcode_test/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE-APACHE" type="PLAIN_TEXT" />
-      <mapping pattern=".mainframer/config" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nvm" type="PLAIN_TEXT" />
       <mapping pattern=".ci/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern=".mainframer/config" type="PLAIN_TEXT" />
+      <mapping pattern="localignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="services/service1/BUILD" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="vidispine_transcode_test/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="mock/resolvers,ts" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelignore" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
+      <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="aggregate-state" type="PLAIN_TEXT" />
       <mapping ext="bazelrc" type="PLAIN_TEXT" />
       <mapping ext="diesel" type="PLAIN_TEXT" />
       <mapping ext="vsl" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="spv" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
