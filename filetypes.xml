@@ -33,6 +33,7 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="spv" type="PLAIN_TEXT" />
+      <mapping ext="secret" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="bzl" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
